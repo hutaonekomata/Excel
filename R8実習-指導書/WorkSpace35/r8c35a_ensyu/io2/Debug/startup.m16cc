@@ -1,0 +1,8 @@
+-lang=c
+-I"..\..\..\common_r8c35a"
+-D__UART0__
+-c
+-finfo
+-dir "K:\USB2\WorkSpace35\r8c35a_ensyu\io2\Debug"
+-R8C
+"K:\USB2\WorkSpace35\r8c35a_ensyu\io2\startup.c"
